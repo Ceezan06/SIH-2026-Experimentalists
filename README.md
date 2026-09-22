@@ -119,4 +119,4 @@ The application features Role-Based Access Control (RBAC).
 
 ### AI Training and ETL Scripts
 
-All scripts can be found in the venv\Scripts folder for inspection.
+All scripts can be found in the Scripts folder for inspection.
