@@ -49,8 +49,9 @@ To regain database access quickly and ensure the dashboard functions correctly o
 * `mplads`
 
 
-4. Restore the provided backup files into their respective databases.
-5. **Database Credentials required for the backend:**
+4. Restore the provided Google Drive backup files into their respective databases.
+5. **https://drive.google.com/drive/folders/19mWbewlMrYRmrTjilLGhS1jTceVle_G0?usp=sharing**
+6. **Database Credentials required for the backend:**
 * **User:** `postgres`
 * **Password:** `1234`
 
