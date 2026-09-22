@@ -1,0 +1,137 @@
+{
+  "Varanasi (Uttar Pradesh)": {
+    "summary": { "mp_name": "Narendra Modi", "constituency": "Varanasi (Uttar Pradesh)", "total_funds": "35.50 Cr", "total_work_orders": 240, "completed_projects": 210, "completed_pct": 87, "high_risk_orders": 3 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 6.5, "expenditure": 6.0 }, { "year": "2023-24", "sanctioned": 8.0, "expenditure": 7.8 }, { "year": "2025-26", "sanctioned": 10.5, "expenditure": 9.9 } ],
+    "projects": [ 
+      { "work_id": "UP-VAR-24-001", "description": "Kashi Vishwanath Corridor Surroundings Beautification", "amount": "150.00 Lakh", "overall": 0.85, "risk": "High", "status": "Delayed" },
+      { "work_id": "UP-VAR-24-042", "description": "Solar Lighting Installation at Assi Ghat", "amount": "45.50 Lakh", "overall": 0.35, "risk": "Low", "status": "Under Progress" },
+      { "work_id": "UP-VAR-24-112", "description": "Construction of Public Toilets near Dashashwamedh", "amount": "28.00 Lakh", "overall": 0.65, "risk": "Medium", "status": "Under Progress" }
+    ]
+  },
+  "Raebareli (Uttar Pradesh)": {
+    "summary": { "mp_name": "Rahul Gandhi", "constituency": "Raebareli (Uttar Pradesh)", "total_funds": "22.80 Cr", "total_work_orders": 145, "completed_projects": 95, "completed_pct": 65, "high_risk_orders": 12 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 4.5, "expenditure": 3.0 }, { "year": "2023-24", "sanctioned": 5.5, "expenditure": 4.5 }, { "year": "2025-26", "sanctioned": 7.0, "expenditure": 5.2 } ],
+    "projects": [ 
+      { "work_id": "UP-RBL-24-015", "description": "Rural Primary Health Centre Upgradation", "amount": "65.00 Lakh", "overall": 0.78, "risk": "High", "status": "Under Progress" },
+      { "work_id": "UP-RBL-24-088", "description": "Widening of Main Connectivity Road in Lalganj", "amount": "110.00 Lakh", "overall": 0.92, "risk": "High", "status": "Halted" },
+      { "work_id": "UP-RBL-24-102", "description": "Drinking Water Handpumps Installation", "amount": "18.50 Lakh", "overall": 0.42, "risk": "Medium", "status": "Under Progress" }
+    ]
+  },
+  "Amethi (Uttar Pradesh)": {
+    "summary": { "mp_name": "Kishori Lal Sharma", "constituency": "Amethi (Uttar Pradesh)", "total_funds": "19.50 Cr", "total_work_orders": 110, "completed_projects": 75, "completed_pct": 68, "high_risk_orders": 8 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 4.0, "expenditure": 3.5 }, { "year": "2023-24", "sanctioned": 5.0, "expenditure": 4.0 }, { "year": "2025-26", "sanctioned": 6.5, "expenditure": 5.0 } ],
+    "projects": [ 
+      { "work_id": "UP-AME-24-009", "description": "Construction of Inter-College Boundary Wall", "amount": "32.00 Lakh", "overall": 0.81, "risk": "High", "status": "Delayed" },
+      { "work_id": "UP-AME-24-045", "description": "Village Road Repair at Gauriganj", "amount": "45.00 Lakh", "overall": 0.55, "risk": "Medium", "status": "Under Progress" },
+      { "work_id": "UP-AME-24-077", "description": "Solar Water Heaters for Govt Hostels", "amount": "22.50 Lakh", "overall": 0.25, "risk": "Low", "status": "Under Progress" }
+    ]
+  },
+  "Wayanad (Kerala)": {
+    "summary": { "mp_name": "Priyanka Gandhi Vadra", "constituency": "Wayanad (Kerala)", "total_funds": "21.00 Cr", "total_work_orders": 135, "completed_projects": 98, "completed_pct": 72, "high_risk_orders": 6 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 3.5, "expenditure": 3.0 }, { "year": "2023-24", "sanctioned": 5.0, "expenditure": 4.5 }, { "year": "2025-26", "sanctioned": 6.5, "expenditure": 5.8 } ],
+    "projects": [ 
+      { "work_id": "KL-WAY-24-033", "description": "Eco-friendly Tourism Infrastructure at Banasura", "amount": "85.00 Lakh", "overall": 0.76, "risk": "High", "status": "Under Progress" },
+      { "work_id": "KL-WAY-24-051", "description": "Tribal Welfare School Renovation", "amount": "42.00 Lakh", "overall": 0.38, "risk": "Medium", "status": "Under Progress" },
+      { "work_id": "KL-WAY-24-099", "description": "Landslide Prevention Retaining Wall", "amount": "120.00 Lakh", "overall": 0.88, "risk": "High", "status": "Delayed" }
+    ]
+  },
+  "Thiruvananthapuram (Kerala)": {
+    "summary": { "mp_name": "Shashi Tharoor", "constituency": "Thiruvananthapuram (Kerala)", "total_funds": "28.40 Cr", "total_work_orders": 180, "completed_projects": 150, "completed_pct": 83, "high_risk_orders": 4 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 5.5, "expenditure": 5.0 }, { "year": "2023-24", "sanctioned": 6.5, "expenditure": 6.0 }, { "year": "2025-26", "sanctioned": 8.0, "expenditure": 7.5 } ],
+    "projects": [ 
+      { "work_id": "KL-THI-24-012", "description": "Modernization of Public Library Digital Archives", "amount": "35.00 Lakh", "overall": 0.22, "risk": "Low", "status": "Under Progress" },
+      { "work_id": "KL-THI-24-067", "description": "Coastal Erosion Protection Blocks at Kovalam", "amount": "95.00 Lakh", "overall": 0.74, "risk": "High", "status": "Under Progress" },
+      { "work_id": "KL-THI-24-114", "description": "Smart Classrooms Setup in Govt Schools", "amount": "55.00 Lakh", "overall": 0.45, "risk": "Medium", "status": "Delayed" }
+    ]
+  },
+  "Gandhinagar (Gujarat)": {
+    "summary": { "mp_name": "Amit Shah", "constituency": "Gandhinagar (Gujarat)", "total_funds": "40.00 Cr", "total_work_orders": 280, "completed_projects": 255, "completed_pct": 91, "high_risk_orders": 2 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 8.0, "expenditure": 7.5 }, { "year": "2023-24", "sanctioned": 9.5, "expenditure": 9.0 }, { "year": "2025-26", "sanctioned": 12.0, "expenditure": 11.5 } ],
+    "projects": [ 
+      { "work_id": "GJ-GAN-24-005", "description": "GIFT City Periphery Road Expansion", "amount": "250.00 Lakh", "overall": 0.18, "risk": "Low", "status": "Under Progress" },
+      { "work_id": "GJ-GAN-24-122", "description": "CCTV Surveillance Network in Urban Villages", "amount": "180.00 Lakh", "overall": 0.40, "risk": "Medium", "status": "Under Progress" },
+      { "work_id": "GJ-GAN-24-201", "description": "Community Lake Beautification Project", "amount": "65.00 Lakh", "overall": 0.65, "risk": "Medium", "status": "Delayed" }
+    ]
+  },
+  "Baramati (Maharashtra)": {
+    "summary": { "mp_name": "Supriya Sule", "constituency": "Baramati (Maharashtra)", "total_funds": "26.50 Cr", "total_work_orders": 165, "completed_projects": 138, "completed_pct": 83, "high_risk_orders": 5 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 5.0, "expenditure": 4.8 }, { "year": "2023-24", "sanctioned": 6.5, "expenditure": 6.0 }, { "year": "2025-26", "sanctioned": 7.5, "expenditure": 7.0 } ],
+    "projects": [ 
+      { "work_id": "MH-BAR-24-034", "description": "Agricultural Cold Storage Facility", "amount": "120.00 Lakh", "overall": 0.48, "risk": "Medium", "status": "Under Progress" },
+      { "work_id": "MH-BAR-24-088", "description": "Women's Skill Development Centre Setup", "amount": "45.00 Lakh", "overall": 0.25, "risk": "Low", "status": "Under Progress" },
+      { "work_id": "MH-BAR-24-142", "description": "Irrigation Canal Deepening", "amount": "85.00 Lakh", "overall": 0.82, "risk": "High", "status": "Delayed" }
+    ]
+  },
+  "Mumbai North Central (Maharashtra)": {
+    "summary": { "mp_name": "Varsha Gaikwad", "constituency": "Mumbai North Central (Maharashtra)", "total_funds": "24.00 Cr", "total_work_orders": 140, "completed_projects": 110, "completed_pct": 78, "high_risk_orders": 7 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 4.5, "expenditure": 4.0 }, { "year": "2023-24", "sanctioned": 6.0, "expenditure": 5.5 }, { "year": "2025-26", "sanctioned": 7.0, "expenditure": 6.2 } ],
+    "projects": [ 
+      { "work_id": "MH-MNC-24-011", "description": "Slum Rehabilitation Area Drainage Upgrade", "amount": "145.00 Lakh", "overall": 0.79, "risk": "High", "status": "Under Progress" },
+      { "work_id": "MH-MNC-24-067", "description": "Public Park Open Gym Installation", "amount": "25.00 Lakh", "overall": 0.32, "risk": "Low", "status": "Under Progress" },
+      { "work_id": "MH-MNC-24-105", "description": "Pedestrian Skywalk Maintenance Work", "amount": "90.00 Lakh", "overall": 0.88, "risk": "High", "status": "Halted" }
+    ]
+  },
+  "Hyderabad (Telangana)": {
+    "summary": { "mp_name": "Asaduddin Owaisi", "constituency": "Hyderabad (Telangana)", "total_funds": "30.50 Cr", "total_work_orders": 190, "completed_projects": 160, "completed_pct": 84, "high_risk_orders": 4 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 6.0, "expenditure": 5.5 }, { "year": "2023-24", "sanctioned": 7.5, "expenditure": 6.8 }, { "year": "2025-26", "sanctioned": 9.0, "expenditure": 8.5 } ],
+    "projects": [ 
+      { "work_id": "TS-HYD-24-023", "description": "Old City Road Widening Project Phase 2", "amount": "210.00 Lakh", "overall": 0.85, "risk": "High", "status": "Delayed" },
+      { "work_id": "TS-HYD-24-099", "description": "Unani Hospital Medical Equipment Procurement", "amount": "55.00 Lakh", "overall": 0.41, "risk": "Medium", "status": "Under Progress" },
+      { "work_id": "TS-HYD-24-150", "description": "Charminar Surrounding Heritage Lighting", "amount": "40.00 Lakh", "overall": 0.28, "risk": "Low", "status": "Under Progress" }
+    ]
+  },
+  "Dharwad (Karnataka)": {
+    "summary": { "mp_name": "Pralhad Joshi", "constituency": "Dharwad (Karnataka)", "total_funds": "32.00 Cr", "total_work_orders": 200, "completed_projects": 175, "completed_pct": 87, "high_risk_orders": 3 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 6.5, "expenditure": 6.0 }, { "year": "2023-24", "sanctioned": 8.0, "expenditure": 7.5 }, { "year": "2025-26", "sanctioned": 9.5, "expenditure": 9.0 } ],
+    "projects": [ 
+      { "work_id": "KA-DHA-24-019", "description": "Hubli-Dharwad BRTS Feeder Road Setup", "amount": "180.00 Lakh", "overall": 0.55, "risk": "Medium", "status": "Under Progress" },
+      { "work_id": "KA-DHA-24-082", "description": "Construction of Science Lab in Govt Degree College", "amount": "75.00 Lakh", "overall": 0.22, "risk": "Low", "status": "Under Progress" },
+      { "work_id": "KA-DHA-24-144", "description": "Market Yard APMC Infrastructure Upgrade", "amount": "110.00 Lakh", "overall": 0.76, "risk": "High", "status": "Delayed" }
+    ]
+  },
+  "Amritsar (Punjab)": {
+    "summary": { "mp_name": "Gurjeet Singh Aujla", "constituency": "Amritsar (Punjab)", "total_funds": "22.00 Cr", "total_work_orders": 125, "completed_projects": 90, "completed_pct": 72, "high_risk_orders": 9 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 4.0, "expenditure": 3.5 }, { "year": "2023-24", "sanctioned": 5.5, "expenditure": 4.8 }, { "year": "2025-26", "sanctioned": 7.0, "expenditure": 5.9 } ],
+    "projects": [ 
+      { "work_id": "PB-AMR-24-007", "description": "Sewerage System Upgrade in Walled City", "amount": "135.00 Lakh", "overall": 0.89, "risk": "High", "status": "Halted" },
+      { "work_id": "PB-AMR-24-055", "description": "Golden Temple Approach Road Beautification", "amount": "95.00 Lakh", "overall": 0.45, "risk": "Medium", "status": "Under Progress" },
+      { "work_id": "PB-AMR-24-110", "description": "Sports Equipment for Rural Youth Clubs", "amount": "15.00 Lakh", "overall": 0.21, "risk": "Low", "status": "Under Progress" }
+    ]
+  },
+  "Bhopal (Madhya Pradesh)": {
+    "summary": { "mp_name": "Alok Sharma", "constituency": "Bhopal (Madhya Pradesh)", "total_funds": "27.50 Cr", "total_work_orders": 170, "completed_projects": 142, "completed_pct": 83, "high_risk_orders": 5 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 5.5, "expenditure": 5.0 }, { "year": "2023-24", "sanctioned": 6.5, "expenditure": 6.0 }, { "year": "2025-26", "sanctioned": 8.0, "expenditure": 7.2 } ],
+    "projects": [ 
+      { "work_id": "MP-BHO-24-012", "description": "Upper Lake Catchment Area Afforestation", "amount": "45.00 Lakh", "overall": 0.35, "risk": "Low", "status": "Under Progress" },
+      { "work_id": "MP-BHO-24-088", "description": "Multi-level Parking Construction in MP Nagar", "amount": "220.00 Lakh", "overall": 0.81, "risk": "High", "status": "Delayed" },
+      { "work_id": "MP-BHO-24-135", "description": "Aanganwadi Centers Renovation Phase 3", "amount": "38.00 Lakh", "overall": 0.52, "risk": "Medium", "status": "Under Progress" }
+    ]
+  },
+  "Krishnanagar (West Bengal)": {
+    "summary": { "mp_name": "Mahua Moitra", "constituency": "Krishnanagar (West Bengal)", "total_funds": "23.40 Cr", "total_work_orders": 150, "completed_projects": 115, "completed_pct": 76, "high_risk_orders": 7 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 4.5, "expenditure": 4.0 }, { "year": "2023-24", "sanctioned": 6.0, "expenditure": 5.2 }, { "year": "2025-26", "sanctioned": 7.5, "expenditure": 6.5 } ],
+    "projects": [ 
+      { "work_id": "WB-KRI-24-022", "description": "Deep Tube Well and Piped Water Connection", "amount": "55.00 Lakh", "overall": 0.44, "risk": "Medium", "status": "Under Progress" },
+      { "work_id": "WB-KRI-24-075", "description": "Construction of Concrete Bridge over Jalangi River", "amount": "180.00 Lakh", "overall": 0.92, "risk": "High", "status": "Halted" },
+      { "work_id": "WB-KRI-24-118", "description": "High Mast Lights Installation in Markets", "amount": "25.00 Lakh", "overall": 0.28, "risk": "Low", "status": "Under Progress" }
+    ]
+  },
+  "Kolkata South (West Bengal)": {
+    "summary": { "mp_name": "Mala Roy", "constituency": "Kolkata South (West Bengal)", "total_funds": "25.00 Cr", "total_work_orders": 160, "completed_projects": 135, "completed_pct": 84, "high_risk_orders": 3 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 5.0, "expenditure": 4.5 }, { "year": "2023-24", "sanctioned": 6.5, "expenditure": 6.0 }, { "year": "2025-26", "sanctioned": 7.5, "expenditure": 7.1 } ],
+    "projects": [ 
+      { "work_id": "WB-KOS-24-004", "description": "Desilting of Tolly's Nullah Canal", "amount": "145.00 Lakh", "overall": 0.77, "risk": "High", "status": "Delayed" },
+      { "work_id": "WB-KOS-24-049", "description": "Modernization of Solid Waste Compactor Stations", "amount": "85.00 Lakh", "overall": 0.35, "risk": "Low", "status": "Under Progress" },
+      { "work_id": "WB-KOS-24-102", "description": "Park Renovation and Children's Play Area Setup", "amount": "30.00 Lakh", "overall": 0.48, "risk": "Medium", "status": "Under Progress" }
+    ]
+  },
+  "Bangalore South (Karnataka)": {
+    "summary": { "mp_name": "Tejasvi Surya", "constituency": "Bangalore South (Karnataka)", "total_funds": "38.50 Cr", "total_work_orders": 250, "completed_projects": 220, "completed_pct": 88, "high_risk_orders": 2 },
+    "trend_data": [ { "year": "2021-22", "sanctioned": 8.0, "expenditure": 7.5 }, { "year": "2023-24", "sanctioned": 9.5, "expenditure": 9.0 }, { "year": "2025-26", "sanctioned": 11.5, "expenditure": 10.8 } ],
+    "projects": [ 
+      { "work_id": "KA-BAS-24-010", "description": "Jayanagar Underpass White-topping Work", "amount": "210.00 Lakh", "overall": 0.65, "risk": "Medium", "status": "Under Progress" },
+      { "work_id": "KA-BAS-24-115", "description": "Tech Park Pedestrian Crossing Signal Automation", "amount": "45.00 Lakh", "overall": 0.15, "risk": "Low", "status": "Completed" },
+      { "work_id": "KA-BAS-24-199", "description": "Rainwater Harvesting Pits in Public Parks", "amount": "35.00 Lakh", "overall": 0.22, "risk": "Low", "status": "Under Progress" }
+    ]
+  }
+}
