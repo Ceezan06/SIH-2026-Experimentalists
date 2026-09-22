@@ -1,4 +1,4 @@
-# MPLADS AI Auditor 🇮🇳
+# MPLADS AI Financial Auditor
 
 **SIH-2026 PS26102: Development of an AI-powered system to detect anomalies, fraud, and inefficiencies in MPLAD Scheme implementation.**
 
